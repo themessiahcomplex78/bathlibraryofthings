@@ -1,0 +1,12 @@
+
+div{	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  padding-top:2em;
+}
+h1{
+	text-align: center;
+	font-size: 25px;
+}
